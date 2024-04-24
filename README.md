@@ -1,7 +1,14 @@
 # HRANet
 Official PyTorch implementation of HRANet. 
 ## Requirements
+```bash
+# Environment Setup  
+Python 3.7.13  
+CUDA 11.1  
+Pytorch 1.10.1  
+torchvision 0.11.2  
 
+```
 ## Installation
 ```bash
 git clone https://github.com/HUI623/HRANet  
