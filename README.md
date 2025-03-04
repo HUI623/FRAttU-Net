@@ -1,5 +1,5 @@
-# HRANet
-Official PyTorch implementation of HRANet. 
+# FRAttU-Net
+Official PyTorch implementation of FRAttU-Net. 
 ## Requirements
 ```bash
 # Environment Setup  
@@ -11,8 +11,8 @@ torchvision 0.11.2
 ```
 ## Installation
 ```bash
-git clone https://github.com/HUI623/HRANet  
-cd WH-HRANet-liver-segmentation  
+git clone https://github.com/HUI623/FRAttU-Net  
+cd WH-FRAttU-Net-liver-segmentation  
 sh install.sh
 ```
 ## Data Preprocessing
