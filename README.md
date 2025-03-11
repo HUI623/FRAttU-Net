@@ -1,5 +1,5 @@
 # FRAttU-Net
-Official PyTorch implementation of FRAttU-Net. 
+Official PyTorch implementation of FRAttU-Net.   
 We will make this code publicly available after the paper is published.
 ## Requirements
 ```bash
