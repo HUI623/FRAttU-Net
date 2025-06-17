@@ -1,5 +1,5 @@
 # FRAttU-Net
-Official PyTorch implementation of the paper <u>Feature Refinement Attention U-Net for Enhanced Liver Segmentation</u>.
+Official PyTorch implementation of the paper <u>Feature Refinement Attention U-Net for Enhanced Liver Segmentation<u>.
 
 # Architecture
 
