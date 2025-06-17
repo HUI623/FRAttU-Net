@@ -1,9 +1,9 @@
 # FRAttU-Net
-Official PyTorch implementation of FRAttU-Net.   
-### Official PyTorch implementation of the paper `Feature Refinement Attention U-Net for Enhanced Liver Segmentation`.
+Official PyTorch implementation of the paper <u>Feature Refinement Attention U-Net for Enhanced Liver Segmentation</u>.
 
 # Architecture
-![Uploading image.png…]()
+
+![Uploading image.png…](https://github.com/HUI623/EDAA-Net/blob/main/Architecture.png)
 
 We will make this code publicly available after the paper is published.
 ## Requirements
