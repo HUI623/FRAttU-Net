@@ -3,7 +3,7 @@ Official PyTorch implementation of the paper [Feature refinement attention U-net
 
 # Architecture
 
-![FRAttU-Net](https://github.com/HUI623/EDAA-Net/blob/main/Architecture.png)
+![FRAttU-Net](https://github.com/HUI623/FRAttU-Net/blob/main/FRAttU-Net%20architecture.png)
 ## 1.Requirements
 ```bash
 # Environment Setup  
